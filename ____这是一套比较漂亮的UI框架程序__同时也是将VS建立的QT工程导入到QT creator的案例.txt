@@ -1,0 +1,24 @@
+
+
+
+https://blog.csdn.net/yao_hou/article/details/108837966
+
+
+
+VS中为QWigdet, 因此在 QT creator中新建QWigdet工程；
+批量导入.h
+批量导入.cpp
+批量导入.ui文件
+导入资源文件qrc
+
+
+代码本身带的一些错误调试；
+
+
+编译运行OK
+
+
+
+
+
+
